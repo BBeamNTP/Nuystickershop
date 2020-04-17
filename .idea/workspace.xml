@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5e22d20-ef0a-4c41-8dd1-d02b0a80bdd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/payment/1/payment-7-1-17-04-63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z0wnZRprckNRX4KMRIJg2aiy5D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Nuysticker\invoice" />
+      <recent name="C:\xampp\htdocs\Nuysticker\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Nuysticker" />
+      <recent name="C:\xampp\htdocs\Nuysticker\img" />
+      <recent name="C:\xampp\htdocs\Nuysticker\invoice" />
+      <recent name="C:\xampp\htdocs\Nuysticker\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e22d20-ef0a-4c41-8dd1-d02b0a80bdd0" name="Default Changelist" comment="" />
+      <created>1583989487195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583989487195</updated>
+      <workItem from="1583989494748" duration="855000" />
+      <workItem from="1583990369405" duration="1662000" />
+      <workItem from="1583992055125" duration="5765000" />
+      <workItem from="1583999082360" duration="13000" />
+      <workItem from="1583999199867" duration="471000" />
+      <workItem from="1584022976511" duration="9982000" />
+      <workItem from="1584081191923" duration="2340000" />
+      <workItem from="1584085104294" duration="18472000" />
+      <workItem from="1584351278098" duration="14150000" />
+      <workItem from="1584388882086" duration="1043000" />
+      <workItem from="1584446407174" duration="4990000" />
+      <workItem from="1584497719422" duration="30370000" />
+      <workItem from="1584596354647" duration="9799000" />
+      <workItem from="1584617080068" duration="3145000" />
+      <workItem from="1584627452542" duration="41000" />
+      <workItem from="1584628762183" duration="15937000" />
+      <workItem from="1584680118687" duration="19621000" />
+      <workItem from="1584700504474" duration="4128000" />
+      <workItem from="1584758809212" duration="13007000" />
+      <workItem from="1584968728907" duration="7367000" />
+      <workItem from="1585122106832" duration="499000" />
+      <workItem from="1585289739340" duration="315000" />
+      <workItem from="1585812183252" duration="235000" />
+      <workItem from="1585812443329" duration="2777000" />
+      <workItem from="1585815248418" duration="1161000" />
+      <workItem from="1585817388302" duration="7438000" />
+      <workItem from="1585826539048" duration="149000" />
+      <workItem from="1585826705529" duration="6535000" />
+      <workItem from="1585840003418" duration="10044000" />
+      <workItem from="1585901688930" duration="1393000" />
+      <workItem from="1585912431250" duration="2897000" />
+      <workItem from="1586004428705" duration="1393000" />
+      <workItem from="1586094106818" duration="677000" />
+      <workItem from="1586100044221" duration="3918000" />
+      <workItem from="1586148947733" duration="22107000" />
+      <workItem from="1586241552955" duration="7322000" />
+      <workItem from="1586439042731" duration="685000" />
+      <workItem from="1587029799864" duration="33546000" />
+      <workItem from="1587105695620" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="110" key="#PHP" timestamp="1583992312945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="110" key="#PHP/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1583992312945" />
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584083538189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584083538189" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587072156701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1587072156701" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585827195910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585827195910" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1587042344836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1587042344836" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585826101453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585826101453" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1585833028499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585833028499" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587029807578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1587029807578" />
+    <state x="547" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1585289763547" />
+    <state x="0" y="0" width="1920" height="1040" key="find.popup" timestamp="1587075901630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1920" height="1040" key="find.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1587075901630" />
+    <state x="342" y="140" key="new project wizard" timestamp="1585826111378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585826111378" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1587061721873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1587061721873" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586182185187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1586182185187" />
+  </component>
+</project>
